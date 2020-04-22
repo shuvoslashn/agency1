@@ -222,11 +222,11 @@ a.logo {
 }
 
 .navbar-light .navbar-nav .nav-link {
-    color: #000;
+    color: #000 !important;
 }
 
 .navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
-    color: var(--theme-color);
+    color: var(--theme-color) !important;
 }
 
 .calltoaction {
